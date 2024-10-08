@@ -29,4 +29,4 @@ Welcome to my GitHub profile! I’m a Data Analyst with a strong interest in tec
 
 ## 💬 Let's Connect
 I'm always open to new opportunities and collaborations. Feel free to reach out if you'd like to chat about data analysis, machine learning, or any exciting projects you're working on!  
-[Email](mailto:wegnermichelle.30@gmail.com) | [LinkedIn](www.linkedin.com/in/michelle-wegner-a925122a9)
+[Email]( mailto:wegnermichelle.30@gmail.com) | [LinkedIn](  www.linkedin.com/in/michelle-wegner-a925122a9)
