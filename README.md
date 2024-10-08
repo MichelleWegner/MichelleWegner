@@ -2,7 +2,7 @@
 
 ## I'm Michelle Wegner ✨
 
-Welcome to my GitHub profile! I'm a passionate Data Analyst with a love for technology, data, and continuous learning. My journey began with the successful completion of a Data Analytics Bootcamp at Ironhack, where I developed a strong foundation in Python, SQL, and Tableau. Every week, I collaborated with diverse teams, working on exciting projects and expanding my knowledge.
+Welcome to my GitHub profile! I’m a Data Analyst with a strong interest in technology, data, and continuous learning. I completed a Data Analytics Bootcamp at Ironhack, where I built a solid foundation in Python, SQL, and Tableau. Throughout the bootcamp, I had the chance to collaborate with teams from different backgrounds, working on various projects and steadily improving my skills.
 
 ## 👩‍💻 About Me
 - 🎓 Im a certified Data Analyst
